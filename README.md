@@ -9,5 +9,5 @@ Use the program FLIPS to install this patch. Simply follow the on-screen prompts
 
 FLIPS: https://www.romhacking.net/utilities/1040/
 
-NOTE: A ROM file for the Sega Master System game Sagaia is required
+NOTE: A ROM file for the Sega Master System game Vigilante is required
 to install this patch, and is NOT contained within this repository
