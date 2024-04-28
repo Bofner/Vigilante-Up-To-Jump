@@ -1,5 +1,5 @@
 # Vigilante Up To Jump
-A patch for the Sega Master System game Vigilante, by Irem, that changes the controls.
+A patch for the Sega Master System game Vigilante, by Irem, that changes the controls. Requested by Elfor!
 
 In the unpathed version, one must use both the 1 and 2 buttons in order to jump, while the UP button on the D-Pad has no purpose.
 This hack just adds the ability to jump using the UP button on the D-Pad. You can still jump with the 1 and 2 buttons.
